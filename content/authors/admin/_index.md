@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Guocheng Qian
+name: Zijian Dong
 
 # Username (this should match the folder name)
 authors:
@@ -10,39 +10,39 @@ authors:
 superuser: true
 
 # Role/position
-role: MS/PhD
+role: MS
 
 # Organizations/Affiliations
 organizations:
-- name: IVUL at KAUST
+- name: ETH Zurich
   url: "https://ivul.kaust.edu.sa/Pages/People.aspx?t=Current"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Guocheng Qian is a MS student at KAUST, researching deep learning and computer vision. 
+bio: Zijian Dong is a MS student at ETH Zurich, researching deep learning and computer vision. 
 
 interests:
-- Computer Vision
-- Deep Learning
-- Computational Photography
-- Graph Convolutional Network
+- 3D Vision
+- Pose Estimation
+- View Synthesis and 3D Reconstruction
+
 
 education:
   courses:
-  - course: MSc in CS
-    institution: KAUST
-    link: https://www.kaust.edu.sa/en
-    logo: "kaust.png"
-    year: 2019 - 
-  - course: BEng in ME
+  - course: MSc in Robotics
+    institution: ETH Zurich
+    link: https://master-robotics.ethz.ch/
+    logo: "eth.png"
+    year: 2018 - present
+  - course: BEng in Honors Engineering Program
     institution: Xi'an Jiaotong University
     link: https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University
     logo: "xjtu.png"
-    year: 2014 - 2018
+    year: 2013 - 2017
   - course: Visting
     institution: HKUST
-    link: https://www.ust.hk/   
+    link: http://www.ust.hk/
     logo: "hkust.png"
-    year: 2015
+    year: 2016
     
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -51,19 +51,19 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:guocheng.qian@kaust.edu.sa".
+  link: '#contact'  # For a direct email link, use "mailto:zidong@student.ethz.ch".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?hl=zh-CN&user=DUDaxg4AAAAJ
+  link: https://scholar.google.com/citations?user=9JivS6kAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/guochengqian
+  link: https://github.com/zj-dong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/guochengqian/
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/GordonQian/
+  link: https://www.linkedin.com/in/zijian-dong-48749015a/
+#- icon: zhihu
+#  icon_pack: fab
+#  link: https://www.zhihu.com/people/GordonQian/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
@@ -78,8 +78,8 @@ social:
 # - Visitors
 ---
 
-Guocheng Qian (钱国成) is currently working towards the MSc degree in the Department of Computer Science at <a target="_blank" href="https://www.kaust.edu.sa/en"> King Abdullah University of Science and Technology (KAUST)</a>.
-  He researches deep learning and computer vision at <a target="_blank" href="https://ivul.kaust.edu.sa/Pages/Home.aspx"> Image and Video Understanding Lab (IVUL)</a>, supervised by <a target="_blank" href="http://www.bernardghanem.com/">Prof. Bernard Ghanem</a>.
-  Guocheng received his B.Eng degree with first class honors from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University (XJTU)</a>, China in 2018.
-  His research interests include computer vision, computational photography and neural architecture search.
+Zijian Dong (董子健) is currently working towards the MSc degree in Robotics at <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>.
+  He currently researches 3D Human Pose Estimation at <a target="_blank" href="https://ait.ethz.ch/index.php"> Advanced Interactive Technologies Lab (AIT)</a>, supervised by <a target="_blank" href="https://ait.ethz.ch/people/hilliges/">Prof. Otmar Hilliges</a>.
+  Guocheng received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a>.
+  His research interests include 3D Reconstruction, 3D Pose Estimation and Differentiable Rendering. 
   
