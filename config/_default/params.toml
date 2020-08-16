@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "Guocheng Qian Website"
+description = "Zijian Dong Website"
 
 # Display a logo in navigation bar rather than title (optional).
 #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
@@ -93,16 +93,16 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", repo_branch 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "guocheng.qian[at]kaust.edu.sa"
+email = "zidong[at]student.ethz.ch"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Building 1, VCC", city = "KAUST", region = "Thuwal", postcode = "23955", country = "Saudi Arabia", country_code = "SA"}
+address = {street = "Stampfenbachstrasse 48", city = "ETH Zurich", region = "Zurich", postcode = "8092", country = "Switzerland", country_code = "CH"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.3084322", longitude = "39.102716"}
+coordinates = {latitude = "47.377575", longitude = "8.547796"}
 
 # Directions for visitors to locate you.
 #directions = "Enter Building 1 and go the desk 2106-WS18 on Floor 2"
@@ -117,9 +117,9 @@ coordinates = {latitude = "22.3084322", longitude = "39.102716"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  #{icon = "envelope", icon_pack = "fas", name = "guocheng.qian@kaust.edu.sa", link="mailto:guocheng.qian@kaust.edu.sa"},
-  {icon = "github", icon_pack = "fab", name = "guochengqian", link = "https://github.com/guochengqian"},
-  {icon = "zhihu", icon_pack = "fab", name = "登高居士", link = "https://www.zhihu.com/people/GordonQian/"},
+  {icon = "envelope", icon_pack = "fas", name = "zidong@student.ethz.ch", link="mailto:guocheng.qian@kaust.edu.sa"},
+  {icon = "github", icon_pack = "fab", name = "zj-dong", link = "https://github.com/zj-dong"},
+  #{icon = "zhihu", icon_pack = "fab", name = "登高居士", link = "https://www.zhihu.com/people/GordonQian/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
   ]
 
