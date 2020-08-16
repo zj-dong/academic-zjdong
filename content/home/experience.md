@@ -19,11 +19,11 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "SenseTime Research"
-  company_url = "https://www.sensetime.com/en/"
-  location = "China, Shenzen"
-  date_start = "2018-07-01"
-  date_end = "2019-05-01"
-  description = "Compuatational Photography. Paper [TENet](https://arxiv.org/abs/1905.02538) submitted."
-  logo = "sensetime.jpg"
+  company = "Microsoft Zurich"
+  company_url = "https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/"
+  location = "Swizterland, Zurich"
+  date_start = "2019-01-07"
+  date_end = "2019-08-21"
+  description = "[MVPDesc: Multi-View-Point Descriptor Learning for Registration of 3D Objects](https://arxiv.org/abs/1905.02538)"
+  logo = "microsoft.jpg"
 +++
