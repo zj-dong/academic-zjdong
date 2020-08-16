@@ -24,6 +24,6 @@ date_format = "Jan 2006"
   location = "Swizterland, Zurich"
   date_start = "2019-01-07"
   date_end = "2019-08-21"
-  description = "[MVPDesc: Multi-View-Point Descriptor Learning for Registration of 3D Objects](https://arxiv.org/abs/1905.02538)"
+  description = "Compuatational Photography. Paper [TENet](https://arxiv.org/abs/1905.02538) submitted."
   logo = "microsoft.jpg"
 +++
