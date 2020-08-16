@@ -117,7 +117,7 @@ coordinates = {latitude = "47.377575", longitude = "8.547796"}
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
 contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "zidong@student.ethz.ch", link="mailto:guocheng.qian@kaust.edu.sa"},
+  {icon = "envelope", icon_pack = "fas", name = "zidong@student.ethz.ch", link="mailto:zidong@student.ethz.ch"},
   {icon = "github", icon_pack = "fab", name = "zj-dong", link = "https://github.com/zj-dong"},
   #{icon = "zhihu", icon_pack = "fab", name = "登高居士", link = "https://www.zhihu.com/people/GordonQian/"},
   #{icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},

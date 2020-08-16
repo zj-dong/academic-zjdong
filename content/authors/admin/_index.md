@@ -15,7 +15,7 @@ role: MS
 # Organizations/Affiliations
 organizations:
 - name: ETH Zurich
-  url: "https://ivul.kaust.edu.sa/Pages/People.aspx?t=Current"
+  url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Zijian Dong is a MS student at ETH Zurich, researching deep learning and computer vision. 
@@ -68,7 +68,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 - icon: cv
   icon_pack: ai
-  link: files/cv.pdf
+  link: files/Zijian_CV.pdf
 
 
 # Organizational groups that you belong to (for People widget)
@@ -80,6 +80,6 @@ social:
 
 Zijian Dong (董子健) is currently working towards the MSc degree in Robotics at <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>.
   He currently researches 3D Human Pose Estimation at <a target="_blank" href="https://ait.ethz.ch/index.php"> Advanced Interactive Technologies Lab (AIT)</a>, supervised by <a target="_blank" href="https://ait.ethz.ch/people/hilliges/">Prof. Otmar Hilliges</a>.
-  Guocheng received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a>.
+  Zijian received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a>.
   His research interests include 3D Reconstruction, 3D Pose Estimation and Differentiable Rendering. 
   
