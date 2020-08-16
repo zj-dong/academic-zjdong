@@ -48,7 +48,7 @@ subtitle = ""
 +++
 - *2020/07/20* : Our paper of ["Category Level Object Pose Estimation via Neural Analysis-by-Synthesis"](https://ait.ethz.ch/projects/2020/neural-object-fitting/) is accepted in ECCV 2020 **NEW!**</span>
 - *2019/7/05* : We achieves the first place in the 2019 [Summer School Robotic Challenge](https://robotics-summerschool.ethz.ch/rsschallenge.html).
-#- *2019/10/15* : Our work [DeepGCNs: Making GCNs Go as Deep as CNNs](https://arxiv.org/abs/1910.06849) achieves [SOTA on PPI](https://paperswithcode.com/sota/node-classification-on-ppi). I implement the [code of Pytorch Version](https://github.com/lightaime/deep_gcns_torch). <span class="enhance">**NEW!**</span>
+
 - *2019/1/17* : I join in Mixed Reality & AI Lab in [Microsoft Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) as a research intern supervised by [Johannes L. Schönberger](https://demuc.de/), [Christoph Vogel](https://www.microsoft.com/en-us/research/people/chvogel/) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/).
 
 - *2017/11/7* : Our work [An autonomous elevator button recognition system based on convolutional neural networks](https://ieeexplore.ieee.org/document/8324801) is selected for oral presentation in IEEE ROBIO 2017!
