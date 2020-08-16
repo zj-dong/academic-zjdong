@@ -46,11 +46,11 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- *2019/12/04* : Our preprint version of "PU-GCN: Point Cloud Upsampling via Graph Convolutional Network" is available here [paper](https://arxiv.org/pdf/1912.03264.pdf), [project website](https://sites.google.com/kaust.edu.sa/pugcn) and [code](https://github.com/guochengqian/PU-GCN). <span class="enhance">**NEW!**</span>
-- *2019/12/03* : Our preprint version of "SGAS: Sequential Greedy Architecture Search" is avialble here [arxiv](https://arxiv.org/abs/1912.00195) and [project website](https://sites.google.com/kaust.edu.sa/sgas). I implement the NAS for GCNs, and code is available here [sgas pytorch](https://github.com/lightaime/sgas). <span class="enhance">**NEW!**</span>
-- *2019/10/15* : Our work [DeepGCNs: Making GCNs Go as Deep as CNNs](https://arxiv.org/abs/1910.06849) achieves [SOTA on PPI](https://paperswithcode.com/sota/node-classification-on-ppi). I implement the [code of Pytorch Version](https://github.com/lightaime/deep_gcns_torch). <span class="enhance">**NEW!**</span>
-- *2019/07/01* : Release [PixelShift200 dataset](http://gcqian.com/pixelshift200), a full color sampled dataset for demosaicking related research. 
-- *2019/05/04* : I join Visual Computing Center at KAUST, working with [Prof. Bernard Ghanem.](http://www.bernardghanem.com/)
-- *2019/05/03* : Our preprint version of "Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution" is available here [arxiv](https://arxiv.org/abs/1905.02538).
-- *2018/07/10* : I graduate from Xi'an Jiaotong University with the highest undergraduate honor (GPA<span class="enhance">**3.93**</span>/4.3).
-- *2018/06/20* : I join Sensetime Research as a research intern, supervised by [Jimmy S. Ren](http://www.jimmyren.com/).
+- *2020/07/20* : Our paper of ["Category Level Object Pose Estimation via Neural Analysis-by-Synthesis"](https://ait.ethz.ch/projects/2020/neural-object-fitting/) is accepted in ECCV 2020 **NEW!**</span>
+- *2019/7/05* : We achieves the first place in the 2019 [Summer School Robotic Challenge](https://robotics-summerschool.ethz.ch/rsschallenge.html).
+#- *2019/10/15* : Our work [DeepGCNs: Making GCNs Go as Deep as CNNs](https://arxiv.org/abs/1910.06849) achieves [SOTA on PPI](https://paperswithcode.com/sota/node-classification-on-ppi). I implement the [code of Pytorch Version](https://github.com/lightaime/deep_gcns_torch). <span class="enhance">**NEW!**</span>
+- *2019/1/17* : I join in Mixed Reality & AI Lab in [Microsoft Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) as a research intern supervised by [Johannes L. Schönberger](https://demuc.de/), [Christoph Vogel](https://www.microsoft.com/en-us/research/people/chvogel/) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/).
+
+- *2017/11/7* : Our work [An autonomous elevator button recognition system based on convolutional neural networks](https://ieeexplore.ieee.org/document/8324801) is selected for oral presentation in IEEE ROBIO 2017!
+- *2017/07/10* : I graduate from Xi'an Jiaotong University with the highest undergraduate honor (GPA<span class="enhance">**94.14**</span>/100).
+- *2017/02/01* : I join in Robotics, Perception & AI Lab The Chinese University of Hong Kong as a research intern, supervised by [Prof.Max Q.-H. Meng](https://www.ee.cuhk.edu.hk/~qhmeng/about.html).
