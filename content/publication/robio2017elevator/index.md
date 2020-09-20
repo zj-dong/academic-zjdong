@@ -48,7 +48,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = ["Graph Convolutional Network"]
+tags = ["Robot Human Interaction]
 
 # Links (optional).
 url_pdf = "https://ieeexplore.ieee.org/abstract/document/8324801"
