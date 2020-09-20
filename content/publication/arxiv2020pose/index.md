@@ -59,7 +59,7 @@ url_preprint = "https://arxiv.org/abs/2008.08145"
 #url_slides = "https://docs.google.com/presentation/d/1L82wWymMnHyYJk3xUKvteEWD5fX0jVRbCbI65Cxxku0/edit?usp=sharing"
 #url_video = "https://youtu.be/CHB96wBV4Ts"
 #url_poster = ""
-url_source = "https://ait.ethz.ch/projects/2020/neural-object-fitting/"
+url_project = "https://ait.ethz.ch/projects/2020/neural-object-fitting/"
 
 # Custom links (optional).
 # Uncomment line below to enable. For multiple links, use the form [{...}, {...}, {...}].
