@@ -1,11 +1,11 @@
 +++
 
-title = "Trinity of Pixel Enhancement: a Joint Solution for Demosaicking, Denoising and Super-Resolution"
-date = 2019-05-07T00:00:00
+title = "Category Level Object Pose Estimation via Neural Analysis-by-Synthesis"
+date = 2020-08-07T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "__**David Jones**__"].
-authors = ["__**Guocheng Qian***__", "Jinjin Gu*", "Jimmy S. Ren", "Chao Dong", "Furong Zhao", "Juan Lin"]
+authors = ["Xu Chen*", "__**Zijian Dong***__", "Jie Song", "Andreas Geiger", "Otmar Hilliges"]
 
 # Publication type.
 # Legend:
@@ -20,10 +20,10 @@ publication_types = ["0"]
 
 # Publication name and optional abbreviated version.
 publication =""
-publication_short = "*arXiv'2019*"
+publication_short = "*ECCV'2020*"
 
 # Abstract and optional shortened version.
-abstract = "Demosaicing, denoising and super-resolution (SR) are of practical importance in digital image processing and have been studied independently in the passed decades. Despite the recent improvement of learning-based image processing methods in image quality, there lacks enough analysis into their interactions and characteristics under a realistic setting of the mixture problem of demosaicing, denoising and SR. In existing solutions, these tasks are simply combined to obtain a high-resolution image from a low-resolution raw mosaic image, resulting in a performance drop of the final image quality. In this paper, we first rethink the mixture problem from a holistic perspective and then propose the Trinity Enhancement Network (TENet), a specially designed learning-based method for the mixture problem, which adopts a novel image processing pipeline order and a joint learning strategy. In order to obtain the correct color sampling for training, we also contribute a new dataset namely PixelShift200, which consists of high-quality full color sampled real-world images using the advanced pixel shift technique. Experiments demonstrate that our TENet is superior to existing solutions in both quantitative and qualitative perspective. Our experiments also show the necessity of the proposed PixelShift200 dataset."
+abstract = "Many object pose estimation algorithms rely on the analysis-by-synthesis framework which requires explicit representations of individual object instances. In this paper we combine a gradient-based fitting procedure with a parametric neural image synthesis module that is capable of implicitly representing the appearance, shape and pose of entire object categories, thus rendering the need for explicit CAD models per object instance unnecessary. The image synthesis network is designed to efficiently span the pose configuration space so that model capacity can be used to capture the shape and local appearance (i.e., texture) variations jointly. At inference time the synthesized images are compared to the target via an appearance based loss and the error signal is backpropagated through the network to the input parameters. Keeping the network parameters fixed, this allows for iterative optimization of the object pose, shape and appearance in a joint manner and we experimentally show that the method can recover orientation of objects with high accuracy from 2D images alone. When provided with depth measurements, to overcome scale ambiguities, the method can accurately recover the full 6DOF pose successfully."
 # abstract_short = "Demosaicing, denoising and super-resolution (SR) are of practical importance in digital image processing and have been studied independently in the passed decades. Despite the recent improvement of learning-based image processing methods in image quality, there lacks enough analysis into their interactions and characteristics under a realistic setting of the mixture problem of demosaicing, denoising and SR ...(View more by click the title)"
 
 
@@ -38,7 +38,7 @@ featured = true
 # E.g. projects = ["deep-learning"] references
 # content/project/deep-learning/index.md.
 # Otherwise, set projects = [].
-projects = ["pixelshift200"]
+projects = []
 
 # Slides (optional).
 # Associate this publication with Markdown slides.
@@ -50,16 +50,16 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = ["super-resolution", "image processing"]
+tags = ["category-level object pose", "view synthesis"]
 
 # Links (optional).
-url_preprint = "https://arxiv.org/abs/1905.02538"
-url_code = "https://github.com/guochengqian/TENet"
-url_dataset = "project/pixelshift200"
+url_preprint = "https://arxiv.org/abs/2008.08145"
+#url_code = "https://github.com/guochengqian/TENet"
+#url_dataset = "project/pixelshift200"
 #url_slides = "https://docs.google.com/presentation/d/1L82wWymMnHyYJk3xUKvteEWD5fX0jVRbCbI65Cxxku0/edit?usp=sharing"
 #url_video = "https://youtu.be/CHB96wBV4Ts"
 #url_poster = ""
-#url_source = ""
+url_source = "https://ait.ethz.ch/projects/2020/neural-object-fitting/"
 
 # Custom links (optional).
 # Uncomment line below to enable. For multiple links, use the form [{...}, {...}, {...}].
