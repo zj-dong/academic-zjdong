@@ -53,7 +53,7 @@ slides = ""
 tags = ["category-level object pose", "view synthesis"]
 
 # Links (optional).
-url_preprint = "https://arxiv.org/abs/2008.08145"
+url_paper = "https://arxiv.org/abs/2008.08145"
 #url_code = "https://github.com/guochengqian/TENet"
 #url_dataset = "project/pixelshift200"
 #url_slides = "https://docs.google.com/presentation/d/1L82wWymMnHyYJk3xUKvteEWD5fX0jVRbCbI65Cxxku0/edit?usp=sharing"
