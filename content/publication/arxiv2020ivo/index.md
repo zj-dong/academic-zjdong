@@ -1,7 +1,7 @@
 +++
 
 title = "IVO: Instance-based Visual Odometry"
-date = 2020-08-05T00:00:00
+date = 2020-11-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "__**David Jones**__"].
