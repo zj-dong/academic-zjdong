@@ -6,7 +6,7 @@ title: Projects
 #   2 = Compact
 #   3 = Card
 #   4 = Citation
-view: Card
+view: Citation
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
