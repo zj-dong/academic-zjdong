@@ -1,11 +1,11 @@
 +++
 
-title = "Shape-aware Multi-Person Pose Estimation from Multi-View Images"
+title = "IVO: Instance-based Visual Odometry"
 date = 2020-11-18T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. ["Bob Smith", "__**David Jones**__"].
-authors = []
+authors = ["Guoxiang Zhou*", "__**Zijian Dong***__", "Zhaopeng Cui", "Marc Pollefeys", "Torsten Sattler"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication =""
 publication_short = "submitted to CVPR2021"
 
 # Abstract and optional shortened version.
-abstract = "In this paper we contribute a coarse-to-fine approachfor estimating 3D poses of multiple people from multi-viewimages. In contrast to state-of-the-art methods that lever-age latent volumetric 3D representations to directly regresspose parameters, we formulate the task as a novel optimiza-tion problem that links high-confidence 2D observationsand 3D joint location candidates via a statistical parameteric body model such as SMPL, used as regularizing prior. Specifically, we propose an energy formulation in which both a multi-view re-projection error and a 3D body modelfitting term are optimized in an alternating fashion. Herethe 3D body model helps in correcting unrealistic pose estimates and in filling in missing joint detections. Thus bylinking 2D and 3D observations our method is both accu-rate and generalizes to different data sources because it bet-ter decouples the final 3D pose from the inter-person constellation and is more robust to noisy 2D detections. We systematically evaluate our method on public datasets andachieve state-of-the-art performance."
+abstract = "Establishing strong data association and handling dynamicenvironments are two challenges for visual odometry (VO). In this pa-per, we propose a novel instance-based visual odometry to tackle thesechallenges  by  leveraging  both  category-level  and  instance-level  seman-tic information. On one hand, we integrate the instance-level semanticconstraint between map points and camera poses into a general visualodometry framework. In order to establish more constraints for feature-less objects, we propose to generate virtual 3D instance points. We alsomodel the uncertainty of the object tracking to improve the robustnessof the general VO framework. On the other hand, we propose practicaldynamic object detection methods for both monocular and stereo visualodometry based on the instance-level semantic information. Experimentsshow that our method outperforms the state-of-the-art baselines on dif-ferent  benchmark  datasets  and  demonstrate  the  benefit  of  our  generalinstance-based visual odometry. "
 
 
 # Is this a selected publication? (true/false)
@@ -49,7 +49,7 @@ slides = ""
 
 # Tags (optional).
 # Set tags = [] for no tags, or use the form tags = ["A Tag", "Another Tag"] for one or more tags.
-tags = ["3D human pose"]
+tags = ["Visual Odometry", "Semantic Segmentation","Instance Segmentation", "Object Tracking"]
 
 # Links (optional).
 #url_preprint = "https://arxiv.org/abs/1912.03264.pdf"
