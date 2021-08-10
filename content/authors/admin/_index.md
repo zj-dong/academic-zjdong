@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MS
+role: PhD
 
 # Organizations/Affiliations
 organizations:
@@ -18,21 +18,26 @@ organizations:
   url: "https://ethz.ch/en.html"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Zijian Dong is a MS student at ETH Zurich, researching deep learning and computer vision. 
+bio: Zijian Dong is a PhD student at ETH Zurich, researching deep learning and computer vision. 
 
 interests:
 - 3D Vision
-- Pose Estimation
 - View Synthesis and 3D Reconstruction
+- Implicit Function
 
 
 education:
   courses:
-  - course: MSc in Robotics
+  - course: PhD in Computer Science
     institution: ETH Zurich
     link: https://master-robotics.ethz.ch/
     logo: "eth.png"
     year: 2018 - present
+  - course: MSc in Robotics
+    institution: ETH Zurich
+    link: https://master-robotics.ethz.ch/
+    logo: "eth.png"
+    year: 2018 - 2021
   - course: BEng in Honors Engineering Program
     institution: Xi'an Jiaotong University
     link: https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University
@@ -78,8 +83,9 @@ social:
 # - Visitors
 ---
 
-Zijian Dong (董子健) is currently working towards the MSc degree in Robotics at <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>.
-  He currently researches 3D Human Pose Estimation at <a target="_blank" href="https://ait.ethz.ch/index.php"> Advanced Interactive Technologies Lab (AIT)</a>, supervised by <a target="_blank" href="https://ait.ethz.ch/people/hilliges/">Prof. Otmar Hilliges</a>.
-  Zijian received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a>.
-  His research interests include 3D Reconstruction, 3D Pose Estimation and Differentiable Rendering. 
+Zijian Dong (董子健) is currently a first-year Ph.D. student in Computer Science at <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>. He is part of the <a target="_blank" href="https://ellis.eu/programs"> ELLIS program</a> supervised by <a target="_blank" href="https://ait.ethz.ch/people/hilliges/"> Prof. Otmar Hilliges</a> and  <a target="_blank" href="http://www.cvlibs.net/"> Prof. Andreas Geiger</a>
+
+Zijian received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a> and MSc with distinction from <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>.
+
+His research interests include 3D Reconstruction, Implicit Function and Differentiable Rendering. 
   
