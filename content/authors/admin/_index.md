@@ -32,7 +32,7 @@ education:
     institution: ETH Zurich
     link: https://master-robotics.ethz.ch/
     logo: "eth.png"
-    year: 2018 - present
+    year: 2021 - present
   - course: MSc in Robotics
     institution: ETH Zurich
     link: https://master-robotics.ethz.ch/
@@ -83,9 +83,5 @@ social:
 # - Visitors
 ---
 
-Zijian Dong (董子健) is currently a first-year Ph.D. student in Computer Science at <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>. He is part of the <a target="_blank" href="https://ellis.eu/programs"> ELLIS program</a> supervised by <a target="_blank" href="https://ait.ethz.ch/people/hilliges/"> Prof. Otmar Hilliges</a> and  <a target="_blank" href="http://www.cvlibs.net/"> Prof. Andreas Geiger</a>
-
-Zijian received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a> and MSc with distinction from <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>.
-
-His research interests include 3D Reconstruction, Implicit Function and Differentiable Rendering. 
+Zijian Dong (董子健) is currently a first-year Ph.D. student in Computer Science at <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>. He is part of the <a target="_blank" href="https://ellis.eu/programs"> ELLIS program</a> supervised by <a target="_blank" href="https://ait.ethz.ch/people/hilliges/"> Prof. Otmar Hilliges</a> and  <a target="_blank" href="http://www.cvlibs.net/"> Prof. Andreas Geiger</a>. Zijian received his B.Eng degree with first class honors  <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Honors Engineering Program</a> from <a target="_blank" href="https://en.wikipedia.org/wiki/Xi%27an_Jiaotong_University">Xi'an Jiaotong University</a> and MSc with distinction from <a target="_blank" href="https://master-robotics.ethz.ch/"> ETH Zurich</a>. His research interests include 3D Reconstruction, Implicit Function and Differentiable Rendering. 
   

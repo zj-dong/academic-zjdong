@@ -46,7 +46,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- *2020/07/20* : Our paper of ["Category Level Object Pose Estimation via Neural Analysis-by-Synthesis"](https://ait.ethz.ch/projects/2020/neural-object-fitting/) is accepted in ECCV 2020 **NEW!**</span>
+
+- *2020/08/05* : Our paper is accepted in ICCV 2021 **NEW!**</span>
+
+- *2021/07/01* : I receive MSc in Robotics at ETH with distinction(GPA<span class="enhance">**5.91**</span>/6.00). I will start my PhD in Computer Science at ETH. **NEW!**</span>
+
+- *2020/07/20* : Our paper of ["Category Level Object Pose Estimation via Neural Analysis-by-Synthesis"](https://ait.ethz.ch/projects/2020/neural-object-fitting/) is accepted in ECCV 2020 </span>
 - *2019/7/05* : We achieves the first place in the 2019 [Summer School Robotic Challenge](https://robotics-summerschool.ethz.ch/rsschallenge.html).
 
 - *2019/1/17* : I join in Mixed Reality & AI Lab in [Microsoft Zurich](https://www.microsoft.com/en-us/research/lab/mixed-reality-ai-zurich/) as a research intern supervised by [Johannes L. Schönberger](https://demuc.de/), [Christoph Vogel](https://www.microsoft.com/en-us/research/people/chvogel/) and [Prof. Marc Pollefeys](https://people.inf.ethz.ch/pomarc/).
